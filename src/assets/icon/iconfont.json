@@ -1,0 +1,37 @@
+{
+  "id": "2416457",
+  "name": "todaynews",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4166137",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4933144",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "4933206",
+      "name": "信封邮件",
+      "font_class": "xinfengyoujian",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "16384716",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    }
+  ]
+}
